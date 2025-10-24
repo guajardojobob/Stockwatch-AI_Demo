@@ -33,4 +33,4 @@ POST /recommend
 curl -F "items=@backend/app/data/items.csv"      -F "site_items=@backend/app/data/site_items.csv"      -F "usage=@backend/app/data/usage.csv"      http://localhost:8000/ingest
 ```
 
-Guajardo Create Date 2025-10-21
+## Guajardo from Explorer Project Folder Create Date 2025-10-21  a
