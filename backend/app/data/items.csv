@@ -1,0 +1,4 @@
+item_id,nsn,description,uom,unit_cost
+WOUND-4X4,6510-00-123-4567,"Gauze 4x4, sterile",EA,0.35
+GLOVES-M,6515-00-765-4321,"Nitrile gloves, M",BX,7.5
+TAPE-SIL,6510-00-888-7777,"Surgical tape, silicone",EA,2.1

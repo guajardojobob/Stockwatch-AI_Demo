@@ -1,0 +1,4 @@
+site_id,item_id,current_par,lead_time_days,min_order_qty
+SLC-660,WOUND-4X4,120,9,30
+SLC-660,GLOVES-M,80,5,10
+SLC-660,TAPE-SIL,60,7,12
